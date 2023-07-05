@@ -1,17 +1,18 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/oBfbImemJMM
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/18t6IUxtReQ47t_nQY-VG6mZ1Ggzh2wyfGY0FFUxUnKY/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+Brain tumor segmentation in MRI images using nonparametric Localization and enhancement methods with U-net
+
 
 Link to the paper:
-https://ieeexplore......
+https://link.springer.com/article/10.1007/s11548-022-02566-7
 
 Group Number:
-0
+35
 
 Individual Submitter:
-12345678 Name A
+20101309 Name MAIDUL ISLAM
