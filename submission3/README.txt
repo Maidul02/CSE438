@@ -1,31 +1,31 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/P1O022-ryDM
 
 Two public links to the Concept Map (anyone on the internet can view without login):
-PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
-Native/original format: 
-https://draw.io/...
+PDF:
+https://drive.google.com/file/d/1GERvnWeHNz4Qq5j_UHkeDbSxNDgNGZUc/view?usp=sharing
+Native/original format:
+https://app.diagrams.net/#G1GERvnWeHNz4Qq5j_UHkeDbSxNDgNGZUc
 
 Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
-3rd edition
-2014
-Pearson
+Pattern Recognition and Machine Learning
+Christopher M. Bishop
+1st
+2006
+Springer
 
 Link to the book:
-https://amazon.com/...
+http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 
 Link to the book chapter:
-https://books.google.com/books...
+https://drive.google.com/file/d/1GjvJfmBU_1STyCAv5Mjpz_4wKNFLXn7e/view?usp=sharing
 
 Group Number:
-0
+35
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20101022 FARJANA ALAM
+20101309 MAIDUL ISLAM
+21301074 Sadman Shakib
+21301121 Md.Talha Ibne Hasan
+21301110 Azanuzzaman Bhuiya
