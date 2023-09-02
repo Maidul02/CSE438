@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/2251667632nmvndcfhgzxs
 
 Unlisted YouTube video:
-https://youtu.be/rydQpUgTPBw
+https://youtu.be/ySPhEAMWy_I
 
 Paper title:
 Brain Tumor Segmentation from MRI images
